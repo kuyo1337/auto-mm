@@ -1,4 +1,4 @@
-```markdown
+
 # Discord Litecoin Middleman Bot
 
 A Discord bot for secure Litecoin (LTC) transactions, acting as a middleman.
